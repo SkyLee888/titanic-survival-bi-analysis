@@ -1,0 +1,17 @@
+# Office and Excel lock files
+~$*.xlsx
+~$*.xls
+~$*.csv
+
+# Power BI temp files
+*.pbix.tmp
+*.pbit.tmp
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE and Editor settings
+.vscode/
+.idea/
